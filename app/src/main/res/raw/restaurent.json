@@ -1,0 +1,258 @@
+[
+  {
+    "name": "Makanan Ringan",
+    "address" : "Purbalingga Wetan",
+    "delivery_charge": "10",
+    "image" : "http://loansbadcreditzuik.net/wp-content/uploads/2020/09/Logo-Makanan-Ringan-768x768.png",
+
+    "hours": {
+      "Minggu": "11:00 WIB - 19:00 WIB",
+      "Senin": "10:00 WIB - 19:00 WIB",
+      "Selasa": "10:00 WIB - 20:00 WIB",
+      "Rabu": "11:00 WIB - 20:00 WIB",
+      "Kamis": "11:00 WIB - 19:00 WIB",
+      "Jumat": "10:00 WIB - 17:00 WIB",
+      "Sabtu": "10:00 WIB - 19:00 WIB"
+    },
+    "menu": [
+      {
+        "nama": "Spaghetti",
+        "harga" :"RP. 35.000",
+        "url": "https://cdn1-production-images-kly.akamaized.net/Gs5apuxwEUuyzhhZKejFwgO8pOs=/0x194:5616x3359/1200x675/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3048436/original/030475400_1581499756-shutterstock_413580649.jpg"
+      },
+      {
+        "nama": "Spaghetti Pizza",
+        "harga": "RP. 20.000",
+        "url": "https://www.saudereggs.com/content/uploads/2018/10/spaghetti-salami-pizza-1280x720.jpg"
+      },
+      {
+        "nama": "Chocolate Pizza",
+        "harga": "RP. 30.000",
+        "url": "https://www.saga.co.uk/contentlibrary/saga/publishing/verticals/food/recipes/gu/chocolate-pizza.jpg"
+      },
+      {
+        "nama": "Cheese Sticks",
+        "harga": "RP. 18.000",
+        "url": "https://static.onecms.io/wp-content/uploads/sites/43/2022/04/07/23596-fried-mozzarella-cheese-sticks-3x2-252.jpg"
+      },
+      {
+        "nama": "Chicken Finger Sandwich",
+        "harga": "RP. 30.000",
+        "url": "https://munchies-images.vice.com/wp_upload/chicken-finger-sub.jpg?crop=1xw:0.84375xh;center,center"
+      },
+      {
+        "nama": "Jamur Crispy",
+        "harga": "RP. 10.000",
+        "url": "https://selerasa.com/wp-content/uploads/2021/09/Resep-Jamur-Crispy-1-1200x720.jpg"
+      },
+      {
+        "nama": "Onion Ring",
+        "harga": "RP. 13.000",
+        "url": "https://cdn0-production-images-kly.akamaized.net/CwNa_6h6yVDPO229HUOjoad3OPU=/201x0:927x726/1200x900/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3914876/original/019631100_1643169536-shutterstock_1407934925.jpg"
+      },
+      {
+        "nama": "Salad Buah",
+        "harga": "RP. 10.000",
+        "url": "https://cdn0-production-images-kly.akamaized.net/N5_I5Gdf5FldLpUnZHbBOJI1kZQ=/0x351:800x802/1200x675/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3969588/original/033281100_1647842147-shutterstock_1961071081__1_.jpg"
+      },
+      {
+        "nama": "Udang Keju",
+        "harga": "RP. 5.000",
+        "url": "https://assets.promediateknologi.com/crop/0x330:1080x1265/x/photo/2022/07/02/662969706.jpg"
+      }
+    ]
+  },
+  {
+
+    "name": "Warung Makan",
+    "address": "Purbalingga",
+    "delivery_charge": "10",
+    "image": "https://www.kibrispdr.org/data/905/simbol-rumah-makan-9.jpg"
+  },
+  {
+    "hours": {
+      "Minggu": "9:00 WIB - 21:00 WIB",
+      "Senin": "9:00 WIB - 21:00 WIB",
+      "Selasa": "10:00 WIB - 21:00 WIB",
+      "Rabu": "10:00 WIB - 21:00 WIB",
+      "Kamis": "10:00 WIB - 21:00 WIB",
+      "Jumat": "10:00 WIB - 20:00 WIB",
+      "Sabtu": "10:00 WIB - 21:00 WIB"
+    },
+    "menu": [
+      {
+        "nama": "Nasi Rames ",
+        "harga": "RP. 5.000",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/0f/a7/a1/76/nasi-campur-ayam.jpg"
+      },
+      {
+        "nama": "Ayam Goreng ",
+        "harga": "RP. 4.000",
+        "url": "https://cdn0-production-images-kly.akamaized.net/yiJJWN8zLs8srd9YG5ZWjf9NWe4=/0x267:1998x1392/1200x675/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3139208/original/037601900_1590738719-ayam_goreng.jpg"
+      },
+      {
+        "nama": "Ayam Gulai",
+        "harga": "RP. 7.000",
+        "url": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/05/31/812896444.jpg"
+      },
+      {
+        "nama": "Telor",
+        "harga": "RP. 3.000",
+        "url": "https://www.piknikdong.com/wp-content/uploads/2022/01/Resep-Telur-Dadar-Padang-min.jpg"
+      },
+      {
+        "nama": "Sayur Kangkung",
+        "harga": "RP. 4.000",
+        "url": "https://resepkoki.id/wp-content/uploads/2019/10/Tumis-Kangkung.jpg"
+      },
+      {
+        "nama": "Teh Hangat/es teh",
+        "harga": "RP. 3.000",
+        "url": "https://tukuya.id/asset/foto_produk/es_teh.jpg"
+      },
+      {
+        "nama": "Gorengan",
+        "harga": "RP. 1.000",
+        "url": "https://awsimages.detik.net.id/community/media/visual/2021/09/07/gorengan-1.jpeg?w=1200"
+      },
+      {
+        "nama": "Es Jeruk/Hangat",
+        "harga": "RP. 4.000",
+        "url": "https://awsimages.detik.net.id/community/media/visual/2021/01/08/kocak-pesan-es-jeruk-hangat-pembeli-ini-langsung-bikin-penjual-emosi.jpeg?w=2736"
+      },
+      {
+        "nama": "Krupuk",
+        "harga": "RP. 2.000",
+        "url": "https://img.freepik.com/premium-photo/krupuk-kerupuk-indonesia-traditional-crackers-served-black-plate-wooden-background_583400-3210.jpg?w=2000"
+      }
+    ]
+  },
+  {
+    "name": "Jus Murah ",
+    "address": "Purbalingga",
+    "delivery_charge": "10",
+    "image": "https://img.freepik.com/premium-vector/juice-logo-vector_93835-13.jpg?w=2000"
+
+  },
+  {
+    "hours": {
+      "Minggu": "9:00 WIB - 23:00 WIB",
+      "Senin": "9:00 WIB - 23:00 WIB",
+      "Selasa": "9:00 WIB - 23:00 WIB",
+      "Rabu": "9:00 WIB - 23:00 WIB",
+      "Kamis": "9:00 WIB - 23:00 WIB",
+      "Jumat": "9:00 WIB - 23:00 WIB",
+      "Sabtu": "9:00 WIB - 23:00 WIB"
+    },
+    "menu": [
+      {
+        "nama": "Jus Mangga",
+        "harga": "RP. 7.000",
+        "url": "https://images.tokopedia.net/img/cache/500-square/VqbcmM/2021/7/7/09674920-4983-4cae-804a-0512450ebd2a.jpg"
+      },
+      {
+        "nama": "Jus Alpukat",
+        "harga": "RP. 10.000",
+        "url": "https://www.nibble.id/wp-content/uploads/2018/04/jus-alpukat-di-jakarta-06.jpg"
+      },
+      {
+        "nama": "Jus Jeruk",
+        "harga": "RP. 5.000",
+        "url": "https://asset-a.grid.id/crop/0x0:0x0/945x630/photo/2021/01/01/1707835543.jpg"
+      },
+      {
+        "nama": "Jus Stroberi",
+        "harga": "RP. 5.000",
+        "url": "https://s3-ap-southeast-1.amazonaws.com/outletz-app-prod/Supplier/158/INVENTORY_IMAGES/1548221951729-OL-JR8RDJI0.jpeg"
+      },
+      {
+        "nama": "Jus Tomat",
+        "harga": "RP. 5.000",
+        "url": "https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2019/04/15/2760001124.jpg"
+      },
+      {
+        "nama": "Jus Sirsak",
+        "harga": "RP. 8.000",
+        "url": "https://blog.klikindomaret.com/wp-content/uploads/2022/01/yogurt-soursop-mix-smoothies-scaled.jpg"
+      },
+      {
+        "nama": "Jus BuahNaga",
+        "harga": "RP. 10.000",
+        "url": "https://cdn1-production-images-kly.akamaized.net/2DaWpyFmUdlbwk0zLmwUdzUtsXw=/1200x1200/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2338494/original/090787200_1535012040-6.21_NAT_Pitaya_Wordpress-Body-Image.jpg"
+      },
+      {
+        "nama": "Jus Jambu",
+        "harga": "RP. 5.000",
+        "url": "https://awsimages.detik.net.id/community/media/visual/2020/04/09/2ef6b8c4-65f7-484a-b75a-f1d62be6815b_43.jpeg?w=700&q=90"
+      },
+      {
+        "nama": "Jus Wortel",
+        "harga": "RP. 7.000",
+        "url": "https://miro.medium.com/max/673/1*j_OjlH0hMv8jsgbz0dMEFw.jpeg"
+      }
+    ]
+  },
+  {
+    "name": "Warung Mie ayam",
+    "address": "Jl.Narasoma Purbalingga Wetan",
+    "delivery_charge": "10",
+    "image": "https://png.pngtree.com/png-clipart/20220716/ourlarge/pngtree-indonesian-food-illustration-chicken-noodle-png-image_5982512.png"
+  },
+  {
+    "hours": {
+      "Minggu": "11:00 WIB - 21:00 WIB",
+      "Senin": "10:00 WIB - 21:00 WIB",
+      "Selasa": "10:00 WIB - 21:00 WIB",
+      "Rabu": "11:00 WIB - 21:00 WIB",
+      "Kamis": "11:00 WIB - 21:00 WIB",
+      "Jumat": "10:00 WIB - 21:00 WIB",
+      "Sabtu": "10:00 WIB - 21:00 WIB"
+    },
+    "menu": [
+      {
+        "nama": "Mie Ayam Biasa",
+        "harga": "RP. 10.000",
+        "url": "https://img.inews.co.id/media/822/files/inews_new/2022/05/18/Resep_Mie_Ayam_untuk_Jualan.jpg"
+      },
+      {
+        "nama": "Mie Ayam Jamur",
+        "harga": "RP. 13.000",
+        "url": "https://asset.kompas.com/crops/cdbcgdT85Q55C3frJ6BO7gO-Fj4=/18x9:670x444/780x390/data/photo/2021/03/12/604b5acbc3075.jpg"
+      },
+      {
+        "nama": "Mie Ayam Kriuk",
+        "harga": "RP. 13.000",
+        "url": "https://images.tokopedia.net/img/cache/500-square/VqbcmM/2021/2/20/c1745c11-1c86-4141-a497-622bc1997473.jpg"
+      },
+      {
+        "nama": "Mie Ayam Ceker",
+        "harga": "RP. 13.000",
+        "url": "https://img-global.cpcdn.com/recipes/c60b27a76df2574a/680x482cq70/mie-ayam-ceker-foto-resep-utama.jpg"
+      },
+      {
+        "nama": "Mie Ayam Bakso",
+        "harga": "RP. 14.000",
+        "url": "https://www.rumahmesin.com/wp-content/uploads/2019/10/mie-ayam-bakso.png"
+      },
+      {
+        "nama": "Mie Ayam Pangsit",
+        "harga": "RP. 15.000",
+        "url": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/6-CYTCLABGV2LKTN/hero/c1e8a57494cd467e896554414a8cb48f_1596680654148069359.jpeg"
+      },
+      {
+        "nama": "Mie Ayam Jumbo",
+        "harga": "RP. 19.000",
+        "url": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/IDGFSTI0000268w/hero/3033685557484288b758e866a990b99d_1643362951234281291.jpeg"
+      },
+      {
+        "nama": "Mie Ayam Komplit",
+        "harga": "RP. 20.000",
+        "url": "https://doyanresep.com/wp-content/uploads/2019/12/resep-mie-ayam-bakso.jpg"
+      }
+    ]
+  }
+]
+
+
+
+
